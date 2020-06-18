@@ -6,7 +6,8 @@ import { Environment } from './interface';
 
 export const environment: Environment = {
   production: false,
-  apiKey: YOUR API KEY
+  apiKey: YOUR API KEY,
+  firebaseDatabaseUrl: YOUR DATABASE URL
 };
 
 /*
